@@ -1,3 +1,12 @@
-/data/
+/data/train/
+/data/test/
+/data/segmentation/
+/data/masks/
+/data/train_label/
+/data/train_images/
+/data/label.csv/
+/data/sample_submission.csv/
 
 /.idea/
+/.ipynb_checkpoint/
+
