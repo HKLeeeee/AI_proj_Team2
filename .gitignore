@@ -8,5 +8,6 @@
 /data/sample_submission.csv/
 
 /.idea/
-/.ipynb_checkpoint/
+*.ipynb_checkpoints
+/Model_Save/
 
